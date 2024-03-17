@@ -1,3 +1,5 @@
+This fork has the same circuit on a different PCB.
+
 # USB PD Tester
 The USB PD Tester is a monitoring and triggering device designed for USB Power Delivery. It allows you to test a wide range of USB Type-C PD power supplies and their corresponding cables. This tool not only displays the capabilities of the power supply on an OLED but also enables you to select one of the available fixed or programmable voltages for output on the screw terminal. With this, it can also be used to power your projects with various selectable voltages and high currents, serving as a versatile variable power supply.
 
